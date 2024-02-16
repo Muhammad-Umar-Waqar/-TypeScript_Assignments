@@ -1,8 +1,8 @@
 // Exercise 1-
 // console.log("Installed Ts, NodeJs and vs code");
 // Exercise 2-
-var person = "Umar";
-console.log("Hello ".concat(person, ", would you like to learn some Python today?"));
+// var person = "Umar";
+// console.log("Hello ".concat(person, ", would you like to learn some Python today?"));
 // Exercise 3-
 // let personName: string = "Umar";
 // console.log(`Lowercase: ${personName.toLowerCase()}`);
